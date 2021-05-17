@@ -20,3 +20,8 @@
 - Open the command line to the frontend directory and run the following command
   ng serve
 - This will open the frontend application in localhost:4200/
+## VTON code repo with our modification
+https://github.com/YuxingW/cp-vton.git
+## References
+Cp-Vton in github: https://github.com/sergeywong/cp-vton <br />
+Vton paper in arxiv:https://arxiv.org/pdf/1807.07688.pdf
